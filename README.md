@@ -1,6 +1,7 @@
 # SuperFast Social Media API
 
-#### This social network API is perfect for startups, designed to effortlessly handle large amounts of diverse data using MongoDB, a NoSQL database. With easy-to-use commands, you can swiftly start the server and sync models, ensuring seamless integration. Using Postman, you can access user and thought data in a neatly formatted JSON layout. Plus, creating, updating, and deleting users and thoughts is a breeze with intuitive POST, PUT, and DELETE routes. You can also manage reactions to thoughts and friends lists with ease. [GitHub Repository URL: https://github.com/imooon/superfast-social-media-api]
+#### This social network API is perfect for startups, designed to effortlessly handle large amounts of diverse data using MongoDB, a NoSQL database. With easy-to-use commands, you can swiftly start the server and sync models, ensuring seamless integration. Using Postman, you can access user and thought data in a neatly formatted JSON layout. Plus, creating, updating, and deleting users and thoughts is a breeze with intuitive POST, PUT, and DELETE routes. You can also manage reactions to thoughts and friends lists with ease. [GitHub Repository URL: https://github.com/imooon/superfast-social-media-api] [Video walkthrough URL: https://drive.google.com/file/d/1R8lWXRZgZo3uzBnNJuSM0GN4VuhSO66m/view?usp=sharing]
+
 
 # User Story 
 
@@ -29,6 +30,10 @@
 ## URL of the GitHub repository
 
 https://github.com/imooon/superfast-social-media-api
+
+## URL of the video walkthrough
+
+https://drive.google.com/file/d/1R8lWXRZgZo3uzBnNJuSM0GN4VuhSO66m/view?usp=sharing
 
 ## License 
 
